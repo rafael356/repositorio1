@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.general{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}
+.contenedor1{
+    margin-top: auto;
+    width: 950px;
+    height: 999px;
+    background-color: rgba(0, 0, 0, .3);
+    float: left;
+    background-repeat: no-repeat;
+    
+}
+
+.contenedor2{
+    width: 950px;
+    height: 999px;
+    background-color: #fff;
+    float: right;
+}
+
+img{
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+
+.informacion{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 250px;
+    height: 50px;
+    background: #fff;
+    position: relative;
+    top: 150px;
+    left: 320px;
+    text-align: center;
+    border-radius: 100px;
+    border: 3px solid #000;
+   
+
+}
+
+.informacion2{
+    width: 210px;
+    height: 50px;
+    background-color: #fff ;
+    position: relative;
+    top: 50px;
+    right: 200px;
+    border: 3px solid #000;
+}
+
+.informacion3{
+    width: 210px;
+    height: 50px;
+    background: #fff;
+    position: relative;
+    bottom: 10px;
+    left: 240px;
+    top: -7px;
+    border: 3px solid #000;
+    
+}
+.informacion3 a{
+    text-decoration: none;
+}
+
+.informacion3:hover{
+    width: 100%;
+}
+
+
+.caja1{
+    width: 250px;
+    height: 250px;  
+   margin-bottom: 5px;
+   position: relative;
+   top: 120px;
+   left: 150px;
+   font-size: 40px;
+   text-align: center;
+   border: 3px solid #000; 
+   transition: all ease 300ms;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKV7RYUULWZFQaT8j6oQVs239TDXYbHyj6_QB4RB3VE2HLDDQd&usqp=CAU);
+   background-size: cover;
+   background-position: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.caja1 a{
+    text-decoration: none;
+}
+
+.caja1:hover{
+    width: 28%;
+    height: 28%;    
+}
+
+.caja2{
+    width: 250px;
+    height: 250px;
+    margin-bottom: 5px;   
+    position: relative;
+    left: 600px;
+    bottom: 143px;
+    font-size: 40px;
+    text-align: center;
+    border: 3px solid #000;  
+    transition: all ease 300ms;
+    background-image: url(https://i.blogs.es/85a5bf/youtube/450_1000.jpg);    
+    background-size: cover;
+    background-position: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.caja2 a{
+    text-decoration: none;
+}
+.caja2:hover{
+    width: 28%;
+    height: 28%;
+}
+
+.caja3{ 
+    width: 250px;
+    height: 250px;
+    background-color: #21CEE3; 
+    margin-bottom: 5px;
+    position: relative;
+    top: 150px;
+    left: 150px;
+    font-size: 40px;
+    text-align: center;
+    border: 3px solid #000;
+    transition: all ease 300ms;
+    background-image: url(https://img-cdn.hipertextual.com/files/2012/06/twitter-bird-white-on-blue.jpg?strip=all&lossy=1&quality=70&ssl=1);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.caja3 a{
+    text-decoration: none;
+}
+.caja3:hover{
+    width: 28%;
+    height: 28%;
+}
+
+.caja4{
+    width: 250px;
+    height: 250px;
+    background-color: #7350A5; 
+    margin-bottom: 5px;
+    position: relative;
+    left: 600px;
+    bottom: 110px;
+    font-size: 40px;
+    text-align: center;
+    border: 3px solid #000;
+    transition: all ease 300ms;
+    background-image: url(https://static.wikia.nocookie.net/1e74cf26-b927-40df-9875-3ace65e94de8);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.caja4 a{
+    text-decoration: none;
+}   
+.caja4:hover{
+    width: 28%;
+    height: 28%;
+}
